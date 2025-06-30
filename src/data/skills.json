@@ -1,0 +1,57 @@
+[
+  {
+    "category": "💻 Front-End Development",
+    "skills": [
+      { "title": "HTML", "imageSrc": "skills/html.png" },
+      { "title": "CSS", "imageSrc": "skills/css.png" },
+      { "title": "JavaScript", "imageSrc": "skills/java script.png" },
+      { "title": "React.js", "imageSrc": "skills/react.png" }
+    ]
+  },
+  {
+    "category": "🖥️ Back-End Development",
+    "skills": [
+      { "title": "Node.js", "imageSrc": "skills/node.png" }
+    ]
+  },
+  {
+    "category": "🗄️ Databases",
+    "skills": [
+      { "title": "MySQL", "imageSrc": "skills/mysql.png" },
+      { "title": "MongoDB", "imageSrc": "skills/mongodb.png" },
+      { "title": "SQLite", "imageSrc": "skills/sqlite.png" }
+    ]
+  },
+  {
+    "category": "🎨 UI/UX & Design",
+    "skills": [
+      { "title": "Figma", "imageSrc": "skills/figma.png" },
+      { "title": "Canva", "imageSrc": "skills/canva.png" }
+    ]
+  },
+  {
+    "category": "☁️ DevOps & Deployment",
+    "skills": [
+      { "title": "Git / GitHub", "imageSrc": "contact/githubIcon.png" },
+      { "title": "Netlify", "imageSrc": "skills/netlify.png" }
+    ]
+  },
+  {
+    "category": "📊 Tools & Technologies",
+    "skills": [
+      { "title": "VS Code", "imageSrc": "skills/vscode.png" },      
+      { "title": "Excel", "imageSrc": "skills/excel.png" },
+      { "title": "Postman", "imageSrc": "skills/postman.png" }
+    ]
+  },
+  {
+    "category": "🧠 Programming Languages",
+    "fullWidth": true,
+    "skills": [
+      { "title": "Java", "imageSrc": "skills/java.png" },
+      { "title": "C", "imageSrc": "skills/c.png" },
+      { "title": "C++", "imageSrc": "skills/c++.png" },
+      { "title": "Python", "imageSrc": "skills/python.png" }
+    ]
+  }
+]

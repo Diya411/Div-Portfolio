@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Community HealthCare Website",
+      "imageSrc": "projects/project.png",
+      "description": "A web-based healthcare platform offering essential tools like a BMI calculator, calorie calculator, and access to doctor-hospital information. The platform emphasizes a user-friendly design and includes real-time form data visualization on a map. It supports efficient data management to enable features like disease spread analysis.",
+      "skills": ["HTML", "CSS", "JS", "MongoDB","Atlas"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
